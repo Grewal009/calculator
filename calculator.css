@@ -9,8 +9,15 @@ body {
  
 }
 
-
-
+/* .cal{
+    display: flex;
+    flex-direction: column;   
+}
+h1{
+    text-align: center;
+    font-size: 3rem;
+    margin: 0.5rem;
+} */
 .wrapper {
  
     width: 400px;
